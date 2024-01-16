@@ -14,7 +14,7 @@ This repository contains code for a COVID-19 vaccination analysis dashboard. It 
 
 
 ## 𝓢𝓬𝓻𝓮𝓮𝓷𝓼𝓱𝓸𝓽𝓼 :
-![Dashboard Preview](Covid_Dashboard_Project.jpg)
+![Dashboard Preview](Covid_Vaccination_State-Wise.jpg)
 
 ## 𝓓𝓪𝓽𝓪 𝓢𝓸𝓾𝓻𝓬𝓮𝓼 :
 - World Health Organization (WHO)
