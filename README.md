@@ -31,5 +31,5 @@ Feel free to contribute by opening issues or Visualisation.
 ## 𝓐𝓬𝓴𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮𝓶𝓮𝓷𝓽𝓼 :
 Special thanks to the data providers and contributors to open-source libraries used in this project.
 
-## 𝓛𝓲𝓬𝓮𝓷c𝓮   :
+## 𝓛𝓲𝓬𝓮𝓷𝓬𝓮   :
 Tanmay Raj©
